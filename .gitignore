@@ -1,0 +1,33 @@
+﻿*.model
+*.csv
+*.pdf
+*.xml
+*.log
+*.apk
+*.m
+*.xlsx
+/.idea
+/.spyproject
+/.vscode
+*vscode*/
+/Data mining
+/temp file
+*.zip
+*.xlsx
+demo.py
+*.doc
+*.pk
+*.docx
+*.txt
+/data from Neal
+/academic papers
+/label_data
+/processed_fin_data
+*.rar
+*.html
+*.yaml
+*.spydata
+temp.py
+.ipynb_checkpoints/
+__pycache__/
+*.swp
